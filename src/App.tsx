@@ -6,6 +6,7 @@ function App() {
       <hr />
       <h1>LAMINAR ANALYTICS</h1>
       <hr />
+      <h4>Data driven, AI powered</h4>
     </>
   )
 }
